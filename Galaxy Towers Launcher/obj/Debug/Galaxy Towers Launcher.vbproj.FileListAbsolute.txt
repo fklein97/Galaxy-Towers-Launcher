@@ -1,0 +1,12 @@
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Debug\Galaxy Towers Launcher.exe
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Debug\Galaxy Towers Launcher.pdb
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Debug\Galaxy Towers Launcher.xml
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Debug\Galaxy Towers Launcher.vbprojAssemblyReference.cache
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Debug\Galaxy_Towers_Launcher.Form_Launcher.resources
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Debug\Galaxy_Towers_Launcher.Resources.resources
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Debug\Galaxy Towers Launcher.vbproj.GenerateResource.cache
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Debug\Galaxy Towers Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Debug\Galaxy Towers Launcher.exe
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Debug\Galaxy Towers Launcher.xml
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Debug\Galaxy Towers Launcher.pdb
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Debug\Galaxy Towers Launcher.exe.config
