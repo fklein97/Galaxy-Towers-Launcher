@@ -27,6 +27,7 @@ Partial Class Form_Launcher
         Me.Button_play = New System.Windows.Forms.Button()
         Me.Button_forceUpdate = New System.Windows.Forms.Button()
         Me.Button_close = New System.Windows.Forms.Button()
+        Me.ProgressBar_update = New System.Windows.Forms.ProgressBar()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -94,12 +95,21 @@ Partial Class Form_Launcher
         Me.Button_close.Text = "X"
         Me.Button_close.UseVisualStyleBackColor = False
         '
+        'ProgressBar_update
+        '
+        Me.ProgressBar_update.Location = New System.Drawing.Point(12, 475)
+        Me.ProgressBar_update.Name = "ProgressBar_update"
+        Me.ProgressBar_update.Size = New System.Drawing.Size(438, 15)
+        Me.ProgressBar_update.TabIndex = 5
+        Me.ProgressBar_update.Visible = False
+        '
         'Form_Launcher
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Black
         Me.ClientSize = New System.Drawing.Size(462, 594)
+        Me.Controls.Add(Me.ProgressBar_update)
         Me.Controls.Add(Me.Button_close)
         Me.Controls.Add(Me.Button_forceUpdate)
         Me.Controls.Add(Me.Button_play)
@@ -120,4 +130,5 @@ Partial Class Form_Launcher
     Friend WithEvents Button_play As Button
     Friend WithEvents Button_forceUpdate As Button
     Friend WithEvents Button_close As Button
+    Friend WithEvents ProgressBar_update As ProgressBar
 End Class
