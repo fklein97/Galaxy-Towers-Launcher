@@ -1,0 +1,22 @@
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\Galaxy Towers Launcher.exe.config
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\Galaxy Towers Launcher.exe
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\Galaxy Towers Launcher.pdb
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\Galaxy Towers Launcher.xml
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Release\Galaxy Towers Launcher.vbprojAssemblyReference.cache
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Release\Galaxy_Towers_Launcher.Form_Launcher.resources
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Release\Galaxy_Towers_Launcher.Resources.resources
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Release\Galaxy Towers Launcher.vbproj.GenerateResource.cache
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Release\Galaxy Towers Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Release\Galaxy Towers Launcher.exe
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Release\Galaxy Towers Launcher.xml
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Release\Galaxy Towers Launcher.pdb
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\System.Data.dll
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\System.Deployment.dll
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\System.dll
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\System.Drawing.dll
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\System.IO.Compression.FileSystem.dll
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\System.Windows.Forms.dll
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\System.Xml.dll
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\bin\Release\System.Xml.Linq.dll
+C:\Users\FKPro\Documents\GitHub\Galaxy-Towers-Launcher\Galaxy Towers Launcher\obj\Release\Galaxy Towers Launcher.vbproj.CopyComplete
