@@ -42,7 +42,7 @@ Public Class Form_Launcher
 
     Private Sub start_update()
         ProgressBar_update.Visible = True
-        ListBox_status.Items.Add("Start Update...")
+        ListBox_status.Items.Add("Starting Update...")
         ProgressBar_update.Value = 10
         ListBox_status.Items.Add("Downloading Update...")
         My.Computer.Network.DownloadFile(download_address, "game.zip")
